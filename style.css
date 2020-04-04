@@ -1,0 +1,71 @@
+.body-style
+{
+    background-color:purple;
+}
+
+.btn-action
+{
+    background-color:slateblue;
+    color:silver;
+}
+
+.btn-action:hover
+{
+    background-color:lawngreen;
+}
+
+.btn-answer
+{
+    background-color:green;
+}
+
+.btn-start
+{
+    background-color:green;
+    color:silver;
+}
+.btn-start:hover
+{
+    background-color:lawngreen;
+}
+
+.btn-timer
+{
+    background-color:orange
+}
+
+.btn-timer:hover
+{
+    background-color:green;
+}
+.calc
+{
+    height:95vh;
+    width:96vw;
+    padding:.05%;
+}
+
+.des-title
+{
+    background-color:gold;
+    display:flex;
+    justify-content:center;
+    font-size:1.5rem;
+
+}
+
+.p-instructions
+{
+    background-color:skyblue;
+    color:darkblue;
+    font-weight:bold;
+    font-size:1.1rem;
+}
+
+.your-calc
+{
+    display:flex;
+    justify-content:left;
+    color:gold;
+    font-size:1.2rem;
+}
